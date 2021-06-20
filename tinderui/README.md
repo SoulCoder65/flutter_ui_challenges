@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+# Project Screenshots
+![](tinderui/snaps/1.jpg)
+
+![](tinderui/snaps/2.jpg)
+
+![](tinderui/snaps/3.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
